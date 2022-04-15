@@ -1,6 +1,6 @@
 # Sobre o Projeto
 
-O Projeto foi desenvolvido com o objetivo de Gerenciar Funcionário de uma empresa. Há basicamente 3 telas principais: Funcionários, Cidades e Departamentos.
+O Projeto foi desenvolvido com o objetivo de gerenciar funcionários de uma empresa. Há basicamente 3 telas principais: Funcionários, Cidades e Departamentos.
 
 ## Telas
 
