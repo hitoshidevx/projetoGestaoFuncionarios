@@ -1,2 +1,30 @@
-# projetoGestaoFuncionarios
-Projeto desenvolvido na linguagem Java utilizando Spring como Framework (além de outras tecnologias como Thymeleaf e Bootstrap)
+# Sobre o Projeto
+
+O Projeto foi desenvolvido com o objetivo de Gerenciar Funcionário de uma empresa. Há basicamente 3 telas principais: Funcionários, Cidades e Departamentos.
+
+## Telas
+
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
