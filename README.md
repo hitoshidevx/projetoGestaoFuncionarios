@@ -55,3 +55,9 @@ O Projeto foi desenvolvido com o objetivo de gerenciar funcionários de uma empr
 ![](telas/adicionarDepartamento.jpeg)
 
 
+## Autor
+
+- [@hitoshidevx](https://github.com/hitoshidevx)
+
+
+
