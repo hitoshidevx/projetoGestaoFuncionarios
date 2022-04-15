@@ -4,6 +4,8 @@ O Projeto foi desenvolvido com o objetivo de Gerenciar Funcionário de uma empre
 
 ## Telas
 
+![imagem_2022-04-15_172544844](https://user-images.githubusercontent.com/61585229/163628833-6d8a1b9c-473c-4876-919c-1c471e459d9d.png)
+
 
 ```bash
 pip install foobar
