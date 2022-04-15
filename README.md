@@ -4,29 +4,54 @@ O Projeto foi desenvolvido com o objetivo de Gerenciar Funcionário de uma empre
 
 ## Telas
 
-![imagem_2022-04-15_172544844](https://user-images.githubusercontent.com/61585229/163628833-6d8a1b9c-473c-4876-919c-1c471e459d9d.png)
+### Listar Funcionário
+#### Funcionalidades
+- Botão para Adicionar um Funcionário
+- Exibir, Excluir e Alterar Funcionários
+- Links para Cidades e Departamentos
+
+![](telas/funcionarios.jpeg)
+
+### Adicionar / Alterar Funcionário
+#### Funcionalidades
+- Campos para Nome, Email e Telefone
+- Dropdowns referenciados as entidades 'Cidades' e 'Departamentos'. Só serão exibidos dados que estão cadastrados no banco.
+- Essa página é reutilizada, ou seja, eu utilizo o mesmo layout tanto para adicionar, quanto para editar. A diferença é que para editar eu seleciono baseado no 'Id'
+- Link para voltar para a Listagem de Funcionários cadastrados
+
+![](telas/adicionarFuncionario.jpeg)
+
+### Listar Cidades
+#### Funcionalidades
+- Botão para Adicionar uma Cidade
+- Exibir, Excluir e Alterar Cidades
+- Link para Funcionários
+
+![](telas/cidades.jpeg)
+
+### Adicionar / Alterar Cidade
+#### Funcionalidades
+- Campos para Nome e Código
+- Essa página é reutilizada, ou seja, eu utilizo o mesmo layout tanto para adicionar, quanto para editar. A diferença é que para editar eu seleciono baseado no 'Id'
+- Link para voltar para a listagem das Cidades cadastradas
+
+![](telas/adicionarCidade.jpeg)
 
 
-```bash
-pip install foobar
-```
+### Listar Departamentos
+#### Funcionalidades
+- Botão para Adicionar um Departamento
+- Exibir, Excluir e Alterar Departamentos
+- Link para Funcionários
 
-## Usage
+![](telas/departamentos.jpeg)
 
-```python
-import foobar
+### Adicionar / Alterar Departamento
+#### Funcionalidades
+- Campos para Nome do departamento
+- Essa página é reutilizada, ou seja, eu utilizo o mesmo layout tanto para adicionar, quanto para editar. A diferença é que para editar eu seleciono baseado no 'Id'
+- Link para voltar para a listagem de Departamentos cadastrados
 
-# returns 'words'
-foobar.pluralize('word')
+![](telas/adicionarDepartamento.jpeg)
 
-# returns 'geese'
-foobar.pluralize('goose')
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
